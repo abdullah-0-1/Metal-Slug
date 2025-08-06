@@ -17,6 +17,8 @@ This is a **2D shooting game** inspired by the classic **Metal Slug**, developed
 
 > 🧠 All transitions between levels are **score-based** — reach a certain score to progress.
 
+![Metal Slug Screenshot](Metal-Slug-OOP/screenshot/ss.png)
+
 ---
 
 ## ⚙️ Features
